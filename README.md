@@ -55,7 +55,7 @@ Location: Manila, Philippines<br>
 - Stakeholder Management
 
 ### Airport-To-Anywhere
-Company: Grab<br>
+> Company: Grab<br>
 Role: Project Co-Lead  
 Launch Date: December 2022  
 Location: Manila, Philippines<br>
@@ -71,10 +71,10 @@ Location: Manila, Philippines<br>
 - Stakeholder Management (Multiple high-level stakeholders)
 
 ### In-App Car Rental Products: Rent-by-Grab, GrabTours
-*Company*: Grab<br>
-*Role:* Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
-*Launch Date:* May 2022 | June 2023<br>
-*Location:* Manila, Philippines<br>
+> Company: Grab<br>
+Role: Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
+Launch Date: May 2022 | June 2023<br>
+Location: Manila, Philippines<br>
 
 - Worked with the Technical Support team to design the initial rent prototype on the app and subsequent developments
 - Rent-by-Grab
