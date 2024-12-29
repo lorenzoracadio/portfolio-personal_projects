@@ -38,10 +38,10 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
   
 ## Professional Projects
 ### Data Consolidation Initiatives
-*Company*: Beiersdorf<br>
-*Role:* Project Lead  
-*Launch Date:* Various  
-*Location:* Manila, Philippines<br>
+> Company: Beiersdorf<br>
+Role: Project Lead  
+Launch Date: Various  
+Location: Manila, Philippines<br>
 
 - Developed procedures, in collaboration with the regional data management team, for automating consolidation of daily reports
 - Created the python script to clean historical data and establish correct logic
@@ -55,10 +55,10 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 - Stakeholder Management
 
 ### Airport-To-Anywhere
-*Company*: Grab<br>
-*Role:* Project Co-Lead  
-*Launch Date:* December 2022  
-*Location:* Manila, Philippines<br>
+Company: Grab<br>
+Role: Project Co-Lead  
+Launch Date: December 2022  
+Location: Manila, Philippines<br>
 
 - Provided additional livelihood to over 1,500 driver partners
 - Improved reliability metrics by 15% for airport-based rides through incentives and awareness initiatives
