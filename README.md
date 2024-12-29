@@ -38,43 +38,43 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
   
 ## Professional Projects
 ### Data Consolidation Initiatives
-**Company**: Beiersdorf<br>
-**Role:** Project Lead  
-**Launch Date:** Various  
-**Location:** Manila, Philippines<br>
+*Company*: Beiersdorf<br>
+*Role:* Project Lead  
+*Launch Date:* Various  
+*Location:* Manila, Philippines<br>
 
 - Developed procedures, in collaboration with the regional data management team, for automating consolidation of daily reports
 - Created the python script to clean historical data and establish correct logic
   - Implemented test scripts led to a 75% decrease in historical report processing times
 - Used power query and VBA to create replicable reports, leading to 100% report accuracy since August 2023
 
-**Featured Skills:**
+*Featured Skills:*
 - Python (Report Creation, Cleaning, and Consolidation of Files)
 - Excel (Power Query, Report Creation)
 - Project Management
 - Stakeholder Management
 
 ### Airport-To-Anywhere
-**Company**: Grab<br>
-**Role:** Project Co-Lead  
-**Launch Date:** December 2022  
-**Location:** Manila, Philippines<br>
+*Company*: Grab<br>
+*Role:* Project Co-Lead  
+*Launch Date:* December 2022  
+*Location:* Manila, Philippines<br>
 
 - Provided additional livelihood to over 1,500 driver partners
 - Improved reliability metrics by 15% for airport-based rides through incentives and awareness initiatives
 - Featured in [news articles](https://www.rappler.com/business/miaa-grab-airport-to-anywhere-program-address-airport-problems/) and [government agency social media](https://www.facebook.com/reel/748547737079706) highlighting project impact
 
-**Featured Skills:**
+*Featured Skills:*
 - SQL (Data Analysis)
 - Python (Report Creation from Dataframes)
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
 
 ### In-App Car Rental Products: Rent-by-Grab, GrabTours
-**Company**: Grab<br>
-**Role:** Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
-**Launch Date:** May 2022 | June 2023<br>
-**Location:** Manila, Philippines<br>
+*Company*: Grab<br>
+*Role:* Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
+*Launch Date:* May 2022 | June 2023<br>
+*Location:* Manila, Philippines<br>
 
 - Worked with the Technical Support team to design the initial rent prototype on the app and subsequent developments
 - Rent-by-Grab
@@ -85,7 +85,7 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
   - Monitored and trained fifty selected driver-partners to ensure an optimal tour experience for guests
   - Featured by a news agency, the [Philippine Star](https://www.philstar.com/headlines/2023/06/15/2273963/dot-digitalize-tour-transactions-grab)
 
-**Featured Skills:**
+*Featured Skills:*
 - SQL (Data Analysis)
 - Python (Report Creation from Dataframes)
 - Project Management
