@@ -8,7 +8,7 @@ University of the Philippines | Diliman, Philippines (June 2018)
 - Bachelor of Science, Business Economics
 
 ## Work History
-### Business Intelligence Asstistant Manager
+### Business Intelligence Asstistant Manager<br style="line-height:0.5;">
 Beiersdorf (May 2023 - Dec 2024)<br>
 - Led an international project team that established data consolidation and reporting for national and regional stakeholders
 - Leveraged knowledge of Power Query, Python, and other tools to automate data processing and data analysis, reducing manual intervention by up to 50% and processing time by 75%
