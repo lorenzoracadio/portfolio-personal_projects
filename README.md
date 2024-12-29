@@ -6,6 +6,7 @@ University of International Business and Economics (对外经济贸易大学) | 
 
 University of the Philippines | Diliman, Philippines (June 2018)
 - Bachelor of Science, Business Economics
+
 ## Work History
 Business Intelligence Assistant Manager at Beiersdorf (May 2023 - Dec 2024)<br>
 - Led an international project team that created a single source of truth data set accessible by both national and regional stakeholders.
