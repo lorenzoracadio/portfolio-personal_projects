@@ -44,9 +44,8 @@ Launch Date: Various
 Location: Manila, Philippines<br>
 
 - Developed procedures, in collaboration with the regional data management team, for automating consolidation of daily reports
-- Created the python script to clean historical data and establish correct logic
-  - Implemented test scripts led to a 75% decrease in historical report processing times
-- Used power query and VBA to create replicable reports, leading to 100% report accuracy since August 2023
+- Created the scripts on Python, VBA, and Power Query to clean historical data and establish correct logic and led to a 75% decrease in historical report processing times
+- Used technical expertise create replicable reports, leading to 100% report accuracy since August 2023
 
 *Featured Skills:*
 - Python (Report Creation, Cleaning, and Consolidation of Files)
@@ -92,3 +91,5 @@ Location: Manila, Philippines<br>
 - Stakeholder Management (Multiple high-level stakeholders)
 
 ## Personal Projects
+
+### Statistical Analysis of Educational Attainment on Household Size
