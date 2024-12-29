@@ -37,7 +37,7 @@ August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 - Created forecasting models for marketing spend, improving budget efficiency.
   
 ## Professional Projects
-### Data Consolidation Initiatives
+### 1. Data Consolidation Initiatives
 > Company: Beiersdorf<br>
 Role: Project Lead  
 Launch Date: Various  
@@ -53,7 +53,7 @@ Location: Manila, Philippines<br>
 - Project Management
 - Stakeholder Management
 
-### Airport-To-Anywhere
+### 2. Airport-To-Anywhere
 > Company: Grab<br>
 Role: Project Co-Lead  
 Launch Date: December 2022  
@@ -69,7 +69,7 @@ Location: Manila, Philippines<br>
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
 
-### In-App Car Rental Products: Rent-by-Grab, GrabTours
+### 3. In-App Car Rental Products: Rent-by-Grab, GrabTours
 > Company: Grab<br>
 Role: Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
 Launch Date: May 2022 | June 2023<br>
@@ -92,4 +92,14 @@ Location: Manila, Philippines<br>
 
 ## Personal Projects
 
-### Statistical Analysis of Educational Attainment on Household Size
+### 1. Statistical Analysis of Educational Attainment on Household Size
+[Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/main/Project%201%20-%20Statistical%20Analysis%20and%20Visualization%20Using%20Python)
+- Using correlation and regression analysis, the data shows that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
+
+*Featured Skills (Using Python):*
+- Data Cleaning and Aggregation
+- Visualization
+- Statistical Analysis
+- Report Writing
+
+### 2. 
