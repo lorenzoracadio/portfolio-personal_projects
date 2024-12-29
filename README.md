@@ -2,13 +2,13 @@
 Technical Skills: SQL, Python, Tableau, Excel
 
 ## Education
-  ### Master of Economics, International Business
-  *University of International Business and Economics* (对外经济贸易大学)<br>
-  September 2019 - April 2021 | Beijing, China | GPA: 3.74
+### Master of Economics, International Business
+*University of International Business and Economics* (对外经济贸易大学)<br>
+September 2019 - April 2021 | Beijing, China | GPA: 3.74
 
-  ### Bachelor of Science, Business Economics
-  *University of the Philippines*<br>
-  August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
+### Bachelor of Science, Business Economics
+*University of the Philippines*<br>
+August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 
 ## Work History
 ### Business Intelligence Assistant Manager
