@@ -92,7 +92,7 @@ Location: Manila, Philippines<br>
 
 ## Personal Projects
 
-### 1. Statistical Analysis of Educational Attainment on Household Size
+### 1. Statistical Analysis of Educational Attainment on Household Size Using Python
 [Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/main/Project%201%20-%20Statistical%20Analysis%20and%20Visualization%20Using%20Python)
 - Using correlation and regression analysis, the data shows that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
 
@@ -102,4 +102,4 @@ Location: Manila, Philippines<br>
 - Statistical Analysis
 - Report Writing
 
-### 2. 
+### 2. Visualization and Analysis of Insurance Client Data Using Tableau and SQL
