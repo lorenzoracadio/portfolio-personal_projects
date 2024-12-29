@@ -1,3 +1,5 @@
 title: Lorenzo Racadio
+logo: /assets/img/headshot_circle.png
+description: testing
 show_downloads: true
-remote_theme: sproogen/modern-resume-theme
+theme: jekyll-theme-minimal
