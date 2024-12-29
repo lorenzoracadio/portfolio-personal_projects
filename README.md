@@ -1,27 +1,7 @@
 # Business Intelligence Professional
 Technical Skills: SQL, Python, Tableau, Excel
 
-<details style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-  <summary style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 1.2em; cursor: pointer;">
-    📚 <em>EDUCATION</em>
-  </summary>
-
-  <h3 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">🎓 Master of Economics, International Business</h3>
-  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-    <em>University of International Business and Economics</em> (对外经济贸易大学)<br>
-    📅 <strong>September 2019 - April 2021</strong> | 📍 <strong>Beijing, China</strong> | 📊 <strong>GPA: 3.74</strong>
-  </p>
-
-  <h3 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">🎓 Bachelor of Science, Business Economics</h3>
-  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
-    <em>University of the Philippines</em><br>
-    📅 <strong>August 2014 - June 2018</strong> | 📍 <strong>Manila, Philippines</strong> | 📊 <strong>GPA: 3.5</strong>
-  </p>
-</details>
-
-<details>
-  <summary><em>EDUCATION</em></summary>
-  
+## Education
   ### Master of Economics, International Business
   *University of International Business and Economics* (对外经济贸易大学)<br>
   September 2019 - April 2021 | Beijing, China | GPA: 3.74
@@ -30,52 +10,51 @@ Technical Skills: SQL, Python, Tableau, Excel
   *University of the Philippines*<br>
   August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 
-</details>
-
-<details>
-  <summary><em>WORK HISTORY</em></summary>
-
-## Business Intelligence Assistant Manager
+## Work History
+### Business Intelligence Assistant Manager
 *Beiersdorf* | May 2023 - December 2024
 - Led an international project team that established data consolidation and reporting for national and regional stakeholders
 - Leveraged knowledge of Power Query, Python, and other tools to automate data processing and data analysis, reducing manual intervention by up to 50% and processing time by about 65%
 - Developed impactful dashboards and implemented streamlined reporting procedures adopted by regional headquarters.
 
-## Transport Marketplace Associate
+### Transport Marketplace Associate
 *Grab* | January 2022 - May 2023
 - Launched high-visibility projects in partnership with major stakeholders in the company, government, and driver community
 - Created dashboards utilizing SQL and Python for daily KPI tracking, reducing reporting time by 75%
 - Developed a framework for negotiating bank partnerships, achieving $100,000 in quarterly savings
 - Conducted data-driven experiments (e.g. A/B testing) that led to statistically significant increases in KPIs of focus groups
 
-## Senior Business Development Analyst
+### Senior Business Development Analyst
 *Shopee* | April 2021 - December 2021
 - Managed 30 high-value accounts in the Sports & Travel category, driving an 80% YoY growth rate
 - Designed automated dashboards for performance tracking and trend analysis
 - Distributed $10,000 in sponsored rebates bi-weekly, supporting sales initiatives
 - Achieved 151% growth in a key account within three months via targeted interventions
 
-## Junior Marketing Analyst
+### Junior Marketing Analyst
 *Balsam International Unlimited* | July 2018 - August 2019
 - Utilized digital marketing analytics tools and techniques, particularly search engine marketing, to optimize campaigns and achieve 15% annual revenue growth.
 - Created forecasting models for marketing spend, improving budget efficiency.
   
-</details>
-
-<details>
-  <summary><em>PROFESSIONAL PROJECTS</em></summary>
-
-## Data Consolidation
+## Professional Projects
+### Data Consolidation Initiatives
 **Company**: Beiersdorf<br>
 **Role:** Project Lead  
-**Launch Date:** December 2024  
+**Launch Date:** Various  
 **Location:** Manila, Philippines<br>
 
-- Provided additional livelihood to over 1,500 driver partners
-- Improved reliability metrics by 15% for airport-based rides through incentives and awareness initiatives
-- Featured in [news articles](https://www.rappler.com/business/miaa-grab-airport-to-anywhere-program-address-airport-problems/) and [government agency social media](https://www.facebook.com/reel/748547737079706) highlighting project impact
+- Developed procedures, in collaboration with the regional data management team, for automating consolidation of daily reports
+- Created the python script to clean historical data and establish correct logic
+  - Implemented test scripts led to a 75% decrease in historical report processing times
+- Used power query and VBA to create replicable reports, leading to 100% report accuracy since August 2023
 
-## Airport-To-Anywhere
+**Featured Skills:**
+- Python (Report Creation, Cleaning, and Consolidation of Files)
+- Excel (Power Query, Report Creation)
+- Project Management
+- Stakeholder Management
+
+### Airport-To-Anywhere
 **Company**: Grab<br>
 **Role:** Project Co-Lead  
 **Launch Date:** December 2022  
@@ -91,7 +70,7 @@ Technical Skills: SQL, Python, Tableau, Excel
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
 
-## In-App Car Rental Products: Rent-by-Grab, GrabTours
+### In-App Car Rental Products: Rent-by-Grab, GrabTours
 **Company**: Grab<br>
 **Role:** Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
 **Launch Date:** May 2022 | June 2023<br>
@@ -111,11 +90,5 @@ Technical Skills: SQL, Python, Tableau, Excel
 - Python (Report Creation from Dataframes)
 - Project Management
 - Stakeholder Management (Multiple high-level stakeholders)
-</details>
 
-<details>
-  <summary><em>PERSONAL PROJECTS</em></summary>
-
-
-
-</details>
+## Personal Projects
