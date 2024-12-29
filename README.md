@@ -7,7 +7,7 @@ Technical Skills: SQL, Python, Tableau, Excel
 September 2019 - April 2021 | Beijing, China | GPA: 3.74
 
 ### Bachelor of Science, Business Economics
-*University of the Philippines*<br>
+*University of the Philippines, Diliman*<br>
 August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
 
 ## Work History
