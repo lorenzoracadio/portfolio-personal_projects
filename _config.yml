@@ -1,8 +1,8 @@
 title: Lorenzo Racadio
 logo: /assets/img/headshot_circle.png
 description: |
-  📞 +1 (312) 735-3411 |
-  ✉️ lorenzo.racadio@gmail.com |  
-  🔗 linkedin.com/in/renzo-racadio-rrn |
+  📞 <strong>+1 (312) 735-3411</strong><br>
+  ✉️ <a href="mailto:lorenzo.racadio@gmail.com">lorenzo.racadio@gmail.com</a><br>
+  🔗 <a href="https://linkedin.com/in/renzo-racadio-rrn" target="_blank">linkedin.com/in/renzo-racadio-rrn</a>
 show_downloads: false
 theme: jekyll-theme-minimal
