@@ -1,21 +1,22 @@
 # Business Intelligence Professional
 Technical Skills: SQL, Python, Tableau, Excel
 
-<details>
-  <summary><em>📚 EDUCATION</em></summary>
+<details style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
+  <summary style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight: bold; font-size: 1.2em; cursor: pointer;">
+    📚 <em>EDUCATION</em>
+  </summary>
 
-  <h3>🎓 Master of Economics, International Business</h3>
-  <p>
+  <h3 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">🎓 Master of Economics, International Business</h3>
+  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <em>University of International Business and Economics</em> (对外经济贸易大学)<br>
     📅 <strong>September 2019 - April 2021</strong> | 📍 <strong>Beijing, China</strong> | 📊 <strong>GPA: 3.74</strong>
   </p>
 
-  <h3>🎓 Bachelor of Science, Business Economics</h3>
-  <p>
+  <h3 style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">🎓 Bachelor of Science, Business Economics</h3>
+  <p style="font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;">
     <em>University of the Philippines</em><br>
     📅 <strong>August 2014 - June 2018</strong> | 📍 <strong>Manila, Philippines</strong> | 📊 <strong>GPA: 3.5</strong>
   </p>
-
 </details>
 
 <details>
