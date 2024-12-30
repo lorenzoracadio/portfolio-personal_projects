@@ -1,4 +1,3 @@
-# Lorenzo Racadio
 # Business Intelligence Professional
 Technical Skills: SQL, Python, Tableau, Excel
 
