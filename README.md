@@ -1,4 +1,4 @@
-# Business Intelligence Professional
+# Business Intelligence and Data Analytics
 Technical Skills: SQL, Python, Tableau, Excel
 
 ## Education
