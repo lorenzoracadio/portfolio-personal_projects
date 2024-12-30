@@ -1,0 +1,121 @@
+year,month,date,policy_owner,product,policy_gender,age,city,province,social_status,premium_mode,policy_source,market,client_segment
+2021,9,9/16/2021,Client 1,PRIME,Male,26,Binangonan,Rizal,Married With Kids,Quarterly ,Active,Warm,Employee
+2021,9,9/22/2021,Client 2,PRIME,Female,25,Pasig City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2021,10,10/6/2021,Client 3,ASSURE,Female,50,Rodriguez (Montalban),Rizal,Married With Kids,Quarterly ,Passive,Natural,Employee
+2021,11,11/8/2021,Client 4,PRIME,Male,29,Quezon City,Metro Manila,Single,Quarterly ,Referral,Cold,Overseas Worker
+2021,11,11/8/2021,Client 5,PRIME,Male,26,Mandaluyong City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2021,12,12/23/2021,Client 6,PRIME,Female,23,Santiago City,Isabela,Single,Quarterly ,Referral,Cold,Employee
+2022,1,1/3/2022,Client 7,FIT & WELL,Female,29,Pasig City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2022,1,1/18/2022,Client 8,PRIME,Female,26,Mandaluyong City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2022,1,1/26/2022,Client 9,PRIME,Female,31,Quezon City,Metro Manila,Married With Kids,Quarterly ,Referral,Cold,Employee
+2022,2,2/7/2022,Client 10,PRIME,Male,24,Candelaria,Zambales,Single,Annual,Active,Warm,Overseas Worker
+2022,3,3/14/2022,Client 11,ELITE,Female,30,Tanza,Cavite,Married With Kids,Annual,Active,Warm,Entrepreneur
+2022,3,3/28/2022,Client 12,ASSURE,Male,25,Rodriguez (Montalban),Rizal,Single,Annual,Passive,Natural,Employee
+2022,4,4/8/2022,Client 13,PRIME,Female,45,Caloocan City (South),Metro Manila,Married With Kids,Quarterly ,Active,Natural,Employee
+2022,4,4/29/2022,Client 14,FIT & WELL,Male,31,Valenzuela,Metro Manila,Married NO kids,Annual,Passive,Warm,Overseas Worker
+2022,4,4/29/2022,Client 15,PRIME,Female,26,Cabuyao,Laguna,Single,Quarterly ,Referral,Cold,Employee
+2022,5,5/4/2022,Client 16,PRIME,Female,26,Cabuyao,Laguna,Single,Quarterly ,Referral,Cold,Employee
+2022,5,5/31/2022,Client 17,PRIME,Male,23,Davao City,Davao Del Sur,Single,Annual,Referral,Cold,Overseas Worker
+2022,6,6/28/2022,Client 18,PRIME,Female,25,Makati City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2022,7,7/4/2022,Client 19,FIT & WELL,Female,31,Marikina,Metro Manila,Single,Annual,Passive,Natural,Employee
+2022,7,7/4/2022,Client 20,FIT & WELL,Male,26,Rodriguez (Montalban),Rizal,Single,Annual,Passive,Natural,Entrepreneur
+2022,7,7/8/2022,Client 21,FIT & WELL,Female,26,Marikina,Metro Manila,Single,Annual,Active,Warm,Overseas Worker
+2022,7,7/15/2022,Client 22,PRIME,Male,24,Zamboanga City,Zamboanga Del Sur,Single,Quarterly ,Active,Warm,Employee
+2022,7,7/19/2022,Client 23,PRIME,Male,25,Balagtas (Bigaa),Bulacan,Single,Quarterly ,Active,Warm,Employee
+2022,7,7/20/2022,Client 24,PRIME,Male,54,Zamboanga City,Zamboanga Del Sur,Married With Kids,Quarterly ,Referral,Cold,Professional 
+2022,7,7/21/2022,Client 25,PRIME,Female,24,Polomolok,South Cotabato,Single,Quarterly ,Active,Warm,Professional 
+2022,7,7/27/2022,Client 26,FIT & WELL,Male,28,Davao City,Davao Del Sur,Single,Annual,Passive,Cold,Professional 
+2022,8,8/8/2022,Client 27,FIT & WELL,Female,26,San Jose Del Monte,Bulacan,Single,Annual,Active,Warm,Employee
+2022,8,8/19/2022,Client 28,FIT & WELL,Male,28,Pinukpuk,Kalinga,Married With Kids,Quarterly ,Passive,Cold,Professional 
+2022,8,8/19/2022,Client 29,PRIME,Male,28,Pinukpuk,Kalinga,Married With Kids,Quarterly ,Passive,Cold,Professional 
+2022,8,8/24/2022,Client 30,FIT & WELL,Female,27,Daet,Camarines Norte,Single,Quarterly ,Referral,Cold,Overseas Worker
+2022,9,9/20/2022,Client 31,PRIME,Female,29,Antipolo,Rizal,Married With Kids,Quarterly ,Referral,Warm,Employee
+2022,9,9/23/2022,Client 32,PRIME,Female,30,Cabuyao,Laguna,Single,Quarterly ,Referral,Cold,Professional 
+2022,9,9/27/2022,Client 33,PRIME,Male,24,Cuenca,Batangas,Single,Quarterly ,Passive,Warm,Employee
+2022,10,10/6/2022,Client 34,BRIGHT,Female,40,General Trias,Cavite,Married With Kids,Quarterly ,Active,Warm,Overseas Worker
+2022,10,10/17/2022,Client 35,PRIME,Male,20,Mamburao,Occ Mindoro,Single,Annual,Passive,Warm,Overseas Worker
+2022,10,10/18/2022,Client 36,PRIME,Female,25,Santiago City,Isabela,Married With Kids,Quarterly ,Passive,Warm,Entrepreneur
+2022,11,11/17/2022,Client 37,FIT & WELL,Female,29,Las Pinas,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2022,11,11/17/2022,Client 38,PRIME,Male,24,Pasig City,Metro Manila,Single,Quarterly ,Active,Cold,Employee
+2022,11,11/18/2022,Client 39,PRIME,Male,26,Caloocan City (South),Metro Manila,Single,Quarterly ,Referral,Cold,Employee
+2022,12,12/7/2022,Client 40,FIT & WELL,Male,34,Tanza,Cavite,Married With Kids,Annual,Upsell,Warm,Entrepreneur
+2022,12,12/13/2022,Client 41,FIT & WELL,Female,30,Tanza,Cavite,Married With Kids,Annual,Upsell,Warm,Entrepreneur
+2023,1,1/6/2023,Client 42,FIT & WELL,Female,25,Iloilo City,Iloilo,Single,Quarterly ,Active,Cold,Employee
+2023,1,1/16/2023,Client 43,PRIME,Female,29,Taytay,Rizal,Single,Quarterly ,Active,Warm,Overseas Worker
+2023,1,1/25/2023,Client 44,PRIME,Female,35,General Trias,Cavite,Married NO kids,Quarterly ,Passive,Warm,Employee
+2023,2,2/14/2023,Client 45,FIT & WELL,Male,31,Los Banos,Laguna,Single,Annual,Upsell,Cold,Employee
+2023,2,2/17/2023,Client 46,ELITE,Female,29,Marikina,Metro Manila,Single,Annual,Referral,Cold,Employee
+2023,2,2/17/2023,Client 47,ELITE,Male,27,Marikina,Metro Manila,Single,Annual,Referral,Cold,Employee
+2023,2,2/27/2023,Client 48,FIT & WELL,Male,31,Cainta,Rizal,Single,Annual,Passive,Cold,Professional 
+2023,2,2/27/2023,Client 49,PRIME,Female,23,Maramag,Bukidnon,Single,Quarterly ,Active,Cold,Employee
+2023,3,3/13/2023,Client 50,ELITE,Male,25,Marikina,Metro Manila,Single,Annual,Upsell,Warm,Employee
+2023,3,3/28/2023,Client 51,PRIME,Female,28,Makati City,Metro Manila,Single,Quarterly ,Active,Cold,Employee
+2023,3,3/31/2023,Client 52,FIT & WELL,Male,29,Quezon City,Metro Manila,Single,Annual,Referral,Cold,Employee
+2023,4,4/5/2023,Client 53,ASSURE,Male,29,Caloocan City (South),Metro Manila,Single,Annual,Passive,Warm,Entrepreneur
+2023,4,4/14/2023,Client 54,PRIME,Male,28,Santa Cruz,Davao Del Sur,Single,Quarterly ,Active,Cold,Employee
+2023,4,4/18/2023,Client 55,PRIME,Female,25,Palo,Leyte,Single,Quarterly ,Active,Warm,Employee
+2023,4,4/19/2023,Client 56,PRIME,Male,34,Antipolo,Rizal,Married With Kids,Quarterly ,Active,Warm,Employee
+2023,4,4/24/2023,Client 57,ELITE,Male,40,Manila,Metro Manila,Married With Kids,Annual,Active,Cold,Entrepreneur
+2023,4,4/28/2023,Client 58,PRIME,Female,27,Rodriguez (Montalban),Rizal,Married NO kids,Quarterly ,Passive,Warm,Employee
+2023,5,5/10/2023,Client 59,FIT & WELL,Female,35,Bacoor,Cavite,Single,Annual,Upsell,Cold,Entrepreneur
+2023,5,5/11/2023,Client 60,PRIME,Female,24,Quezon City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2023,5,5/16/2023,Client 61,FIT & WELL,Female,31,San Mateo,Rizal,Married NO kids,Annual,Referral,Warm,Employee
+2023,6,6/21/2023,Client 62,MAXI100,Male,26,Marikina,Metro Manila,Single,Annual,Passive,Natural,Entrepreneur
+2023,7,7/6/2023,Client 63,PRIME,Female,36,Quezon City,Metro Manila,Married With Kids,Annual,Active,Cold,Professional 
+2023,7,7/25/2023,Client 64,PRIME,Male,36,Baguio City,Benguet,Married With Kids,Quarterly ,Referral,Cold,Overseas Worker
+2023,8,8/3/2023,Client 65,PRIME,Female,29,Aurora,Isabela,Married NO kids,Quarterly ,Referral,Cold,Employee
+2023,8,8/24/2023,Client 66,SINGLE PAY,Female,21,Marikina,Metro Manila,Single,Annual,Passive,Natural,Overseas Worker
+2023,8,8/25/2023,Client 67,PRIME,Female,24,Zamboanga City,Zamboanga Del Sur,Single,Quarterly ,Referral,Cold,Professional 
+2023,8,8/29/2023,Client 68,PRIME,Male,31,Pasig City,Metro Manila,Married With Kids,Quarterly ,Passive,Cold,Employee
+2023,9,9/5/2023,Client 69,PRIME,Female,30,Angono,Rizal,Single,Annual,Referral,Cold,Employee
+2023,9,9/13/2023,Client 70,FIT & WELL,Male,28,Bulacan,Bulacan,Married With Kids,Quarterly ,Active,Warm,Overseas Worker
+2023,9,9/13/2023,Client 71,PRIME,Female,28,Bulacan,Bulacan,Married With Kids,Quarterly ,Active,Warm,Overseas Worker
+2023,9,9/18/2023,Client 72,FIT & WELL,Female,34,Dasmariñas,Cavite,Single,Quarterly ,Referral,Cold,Employee
+2023,9,9/28/2023,Client 73,PRIME,Female,22,Bulacan,Bulacan,Single,Quarterly ,Active,Warm,Overseas Worker
+2023,10,10/9/2023,Client 74,BRIGHT,Female,32,Bacolod,Negros Occ,Single,Quarterly ,Active,Cold,Employee
+2023,10,10/25/2023,Client 75,FIT & WELL,Female,32,Taguig,Metro Manila,Married With Kids,Annual,Passive,Cold,Overseas Worker
+2023,10,10/27/2023,Client 76,PRIME,Female,21,Manila,Metro Manila,Single,Quarterly ,Passive,Cold,Employee
+2023,10,10/27/2023,Client 77,PRIME,Female,23,Manila,Metro Manila,Single,Quarterly ,Passive,Cold,Employee
+2023,11,11/6/2023,Client 78,PRIME,Female,25,Davao City,Davao Del Sur,Single,Quarterly ,Referral,Cold,Entrepreneur
+2023,11,11/17/2023,Client 79,PRIME,Female,27,San Clemente,Tarlac,Single,Quarterly ,Referral,Cold,Employee
+2023,11,11/24/2023,Client 80,FIT & WELL,Male,26,Rodriguez (Montalban),Rizal,Single,Annual,Active,Warm,Professional 
+2023,12,12/7/2023,Client 81,FIT & WELL,Male,32,Quezon City,Metro Manila,Married NO kids,Quarterly ,Active,Warm,Employee
+2023,12,12/7/2023,Client 82,FIT & WELL,Female,31,Kalookan,Metro Manila,Married NO kids,Quarterly ,Active,Warm,Employee
+2023,12,12/19/2023,Client 83,FIT & WELL,Male,30,Manila,Metro Manila,Single,Semi - Annual,Active,Warm,Employee
+2023,12,12/27/2023,Client 84,SINGLE PAY,Female,55,Taguig,Metro Manila,Single,Annual,Referral,Cold,Employee
+2024,1,1/4/2024,Client 85,BRIGHT,Male,32,Purok,Isabela,Married With Kids,Quarterly ,Active,Cold,Overseas Worker
+2024,1,1/15/2024,Client 86,PRIME,Female,27,Taguig,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2024,1,1/23/2024,Client 87,ASSURE,Male,27,Marikina,Metro Manila,Single,Annual,Passive,Natural,Employee
+2024,2,2/6/2024,Client 88,PRIME,Female,22,Quezon City,Metro Manila,Single,Annual,Referral,Cold,Employee
+2024,2,2/6/2024,Client 89,PRIME,Female,25,General Santos,South Cotabato,Single,Quarterly ,Referral,Cold,Employee
+2024,2,2/15/2024,Client 90,PRIME,Female,30,Marikina,Metro Manila,Single,Quarterly ,Referral,Cold,Employee
+2024,2,2/21/2024,Client 91,FIT & WELL,Female,27,Pasig City,Metro Manila,Single,Annual,Passive,Warm,Overseas Worker
+2024,2,2/29/2024,Client 92,PRIME,Female,27,Pasig City,Metro Manila,Married With Kids,Quarterly ,Passive,Warm,Employee
+2024,2,3/8/2024,Client 93,FIT & WELL,Female,28,San Jose Del Monte,Bulacan,Single,Annual,Active,Cold,Overseas Worker
+2024,3,3/12/2024,Client 94,BRIGHT,Female,29,Montalban,Rizal,Married With Kids,Quarterly ,Active,Cold,Entrepreneur
+2024,3,3/25/2024,Client 95,PRIME,Male,36,Baguio City,Benguet,Married With Kids,Quarterly ,Upsell,Warm,Overseas Worker
+2024,4,4/2/2024,Client 96,FIT & WELL,Female,31,Quezon City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2024,4,4/3/2024,Client 97,FIT & WELL,Male,27,Quezon City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2024,4,4/4/2024,Client 98,FIT & WELL,Female,34,Manila City,Metro Manila,Married With Kids,Annual,Passive,Warm,Employee
+2024,4,4/4/2024,Client 99,ELITE,Female,34,Manila City,Metro Manila,Married With Kids,Annual,Passive,Warm,Employee
+2024,4,4/23/2024,Client 100,FIT & WELL,Female,28,Urdaneta,Pangasinan,Single,Quarterly ,Passive,Warm,Overseas Worker
+2024,5,5/14/2024,Client 101,PRIME,Female,32,Marikina City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2024,6,6/6/2024,Client 102,PRIME,Female,21,Cebu City,Cebu,Married With Kids,Quarterly ,Active,Cold,Employee
+2024,6,6/14/2024,Client 103,PRIME,Female,21,Cebu City,Cebu,Married With Kids,Quarterly ,Active,Cold,Employee
+2024,6,6/25/2024,Client 104,PRIME,Male,31,Quezon City,Metro Manila,Married NO kids,Quarterly ,Passive,Warm,Overseas Worker
+2024,7,7/9/2024,Client 105,PRIME,Female,27,Antipolo,Rizal,Married With Kids,Quarterly ,Active,Cold,Employee
+2024,8,8/5/2024,Client 106,FIT & WELL,Male,29,Cebu City,Cebu,Single,Annual,Active,Cold,Overseas Worker
+2024,8,8/29/2024,Client 107,PRIME,Female,32,Quezon City,Metro Manila,Married With Kids,Annual,Active,Warm,Employee
+2024,9,9/3/2024,Client 108,FIT & WELL,Male,40,Irosin,Sorsogon,Single,Annual,Active,Cold,Overseas Worker
+2024,9,9/19/2024,Client 109,FIT & WELL,Female,27,Marikina City,Metro Manila,Single,Annual,Referral,Cold,Employee
+2024,9,9/30/2024,Client 110,ASSURE,Male,27,Marikina City,Metro Manila,Single,Annual,Passive,Natural,Employee
+2024,10,10/22/2024,Client 111,FIT & WELL,Female,34,Paranaque City,Metro Manila,Married With Kids,Annual,Referral,Cold,Overseas Worker
+2024,10,10/25/2024,Client 112,PRIME,Male,34,Quezon City,Metro Manila,Single,Quarterly ,Passive,Warm,Employee
+2024,11,11/5/2024,Client 113,PRIME,Female,26,Dolores,Abra,Married With Kids,Quarterly ,Active,Cold,Employee
+2024,12,12/5/2024,Client 114,FIT & WELL,Female,53,Laguna,Laguna,Married With Kids,Quarterly ,Referral,Cold,Overseas Worker
+2024,12,12/18/2024,Client 115,FIT & WELL,Male,29,Valenzuela,Metro Manila,Single,Annual,Active,Warm,Employee
+2024,12,12/23/2024,Client 116,PRIME,Female,28,Montalban,Rizal,Married With Kids,Monthly,Passive,Warm,Employee
+2023,8,8/24/2023,Client 66,SINGLE PAY,Female,21,Marikina,Metro Manila,Single,Annual,Passive,Natural,Overseas Worker
+2021,11,11/8/2021,Client 5,PRIME,Male,26,Mandaluyong City,Metro Manila,Single,Quarterly ,Active,Warm,Employee
+2022,7,7/4/2022,Client 19,FIT & WELL,Female,31,Marikina,Metro Manila,Single,Annual,Passive,Natural,Employee
+2022,7,7/4/2022,Client 19,FIT & WELL,Female,31,Marikina,Metro Manila,Single,Annual,Passive,Natural,Employee
