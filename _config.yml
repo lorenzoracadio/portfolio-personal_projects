@@ -10,7 +10,7 @@ description: |
   🛠️ <a href="#personal-projects">Personal Projects</a><br>
 
 # Theme
-remote_theme: sproogen/modern-resume-theme
+theme: jekyll-theme-minimal
 
 # Sections
 show_downloads: false
