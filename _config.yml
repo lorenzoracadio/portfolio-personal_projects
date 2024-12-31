@@ -8,5 +8,9 @@ description: |
   💼 <a href="#work-history">Work History</a><br>
   🧠 <a href="#professional-projects">Professional Projects</a><br>
   🛠️ <a href="#personal-projects">Personal Projects</a><br>
+
+# Theme
+remote_theme: sproogen/modern-resume-theme
+
+# Sections
 show_downloads: false
-theme: jekyll-theme-minimal
