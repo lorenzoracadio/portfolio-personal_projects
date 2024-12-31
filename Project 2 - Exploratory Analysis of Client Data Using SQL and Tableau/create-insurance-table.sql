@@ -32,24 +32,56 @@ SELECT
 FROM
 	INSURANCE;
 
--- 2A: Check datatypes. Process date is 'text' type when it should be of 'date' type.
+-- 2A: Inspect and remove nulls. (Note: Important for policy date) Three entries are null so we will delete them.
+
+--- Inspection: 3 rows are null
+
+select *
+FROM insurance_wf
+WHERE
+	policy_date isnull or
+	policy_owner isnull or
+	product isnull
+
+--- Delete the rows
+
+DELETE FROM
+	insurance_wf
+WHERE
+	policy_date isnull or
+	policy_owner isnull or
+	product isnull;
+
+--- 2A Verification: No nulls
+
+select *
+FROM insurance_wf
+WHERE
+	policy_date isnull or
+	policy_owner isnull or
+	product isnull
+
+
+-- 2B: Check datatypes. Process date is 'text' type when it should be of 'date' type.
 
 UPDATE INSURANCE_WF
-SET POLICY_DATE = cast(POLICY_DATE as date)
-ALTER TABLE INSURANCE_WF
-ALTER COLUMN POLICY_DATE TYPE DATE USING TO_DATE(POLICY_DATE, 'YYYY-MM-DD')
+SET POLICY_DATE = cast(POLICY_DATE as date);
 
--- 2A (Verification): Policy date is now returned as a date.
+ALTER TABLE INSURANCE_WF
+ALTER COLUMN POLICY_DATE TYPE DATE USING TO_DATE(POLICY_DATE, 'YYYY-MM-DD');
+
+--- 2B (Verification): Policy date is now returned as a date.
 
 SELECT
 	distinct POLICY_DATE
 FROM
 	INSURANCE_WF
 ORDER BY 1;
-	
--- 2B: Find duplicates. Process date, customer id, and product should be UNIQUE per row. (one customer can avail many policies)
 
---- 3 clients have duplicate entries.
+
+-- 2C: Find duplicates. Process date, customer id, and product should be UNIQUE per row. (one customer can avail many policies)
+
+--- Three clients have duplicate entries.
 
 SELECT POLICY_DATE, POLICY_OWNER, PRODUCT, count(*)
 FROM insurance_wf
@@ -98,8 +130,13 @@ WHERE DUPE_COUNT > 1;
 DELETE FROM insurance_wf
 WHERE dupe_count > 1;
 
--- 2B (Verification): Check if all rows have no duplicates based on the dupe_count column. Remove the dupe_count column.
+-- 2C (Verification): Check if all rows have no duplicates based on the dupe_count column. Remove the dupe_count column.
 SELECT distinct DUPE_COUNT
 FROM insurance_wf;
 ALTER TABLE insurance_wf
 DROP COLUMN IF EXISTS DUPE_COUNT;
+
+
+-- FINAL OUTPUT: Clean Dataset
+SELECT *
+FROM insurance_wf;

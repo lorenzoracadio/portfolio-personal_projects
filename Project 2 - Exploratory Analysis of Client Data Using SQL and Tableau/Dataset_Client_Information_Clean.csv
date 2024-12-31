@@ -1,0 +1,121 @@
+"policy_year","policy_month","policy_date","policy_owner","product","policy_gender","age","city","province","social_status","premium_mode","policy_source","market","client_segment","dupe_count"
+2024,12,"2024-12-05","Client 114","FIT & WELL","Female","53","Laguna","Laguna","Married With Kids","Quarterly ","Referral","Cold","Overseas Worker",NULL
+2024,12,"2024-12-18","Client 115","FIT & WELL","Male","29","Valenzuela","Metro Manila","Single","Annual","Active","Warm","Employee",NULL
+2024,12,"2024-12-23","Client 116","PRIME","Female","28","Montalban","Rizal","Married With Kids","Monthly","Passive","Warm","Employee",NULL
+2023,8,"2023-08-24","Client 66","SINGLE PAY","Female","21","Marikina","Metro Manila","Single","Annual","Passive","Natural","Overseas Worker",NULL
+2021,11,"2021-11-08","Client 5","PRIME","Male","26","Mandaluyong City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,7,"2022-07-04","Client 19","FIT & WELL","Female","31","Marikina","Metro Manila","Single","Annual","Passive","Natural","Employee",NULL
+2022,7,"2022-07-04","Client 19","FIT & WELL","Female","31","Marikina","Metro Manila","Single","Annual","Passive","Natural","Employee",NULL
+2021,9,"2021-09-16","Client 1","PRIME","Male","26","Binangonan","Rizal","Married With Kids","Quarterly ","Active","Warm","Employee",NULL
+2021,9,"2021-09-22","Client 2","PRIME","Female","25","Pasig City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2021,10,"2021-10-06","Client 3","ASSURE","Female","50","Rodriguez (Montalban)","Rizal","Married With Kids","Quarterly ","Passive","Natural","Employee",NULL
+2021,11,"2021-11-08","Client 4","PRIME","Male","29","Quezon City","Metro Manila","Single","Quarterly ","Referral","Cold","Overseas Worker",NULL
+2021,11,"2021-11-08","Client 5","PRIME","Male","26","Mandaluyong City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2021,12,"2021-12-23","Client 6","PRIME","Female","23","Santiago City","Isabela","Single","Quarterly ","Referral","Cold","Employee",NULL
+2022,1,"2022-01-03","Client 7","FIT & WELL","Female","29","Pasig City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,1,"2022-01-18","Client 8","PRIME","Female","26","Mandaluyong City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,1,"2022-01-26","Client 9","PRIME","Female","31","Quezon City","Metro Manila","Married With Kids","Quarterly ","Referral","Cold","Employee",NULL
+2022,2,"2022-02-07","Client 10","PRIME","Male","24","Candelaria","Zambales","Single","Annual","Active","Warm","Overseas Worker",NULL
+2022,3,"2022-03-14","Client 11","ELITE","Female","30","Tanza","Cavite","Married With Kids","Annual","Active","Warm","Entrepreneur",NULL
+2022,3,"2022-03-28","Client 12","ASSURE","Male","25","Rodriguez (Montalban)","Rizal","Single","Annual","Passive","Natural","Employee",NULL
+2022,4,"2022-04-08","Client 13","PRIME","Female","45","Caloocan City (South)","Metro Manila","Married With Kids","Quarterly ","Active","Natural","Employee",NULL
+2022,4,"2022-04-29","Client 14","FIT & WELL","Male","31","Valenzuela","Metro Manila","Married NO kids","Annual","Passive","Warm","Overseas Worker",NULL
+2022,4,"2022-04-29","Client 15","PRIME","Female","26","Cabuyao","Laguna","Single","Quarterly ","Referral","Cold","Employee",NULL
+2022,5,"2022-05-04","Client 16","PRIME","Female","26","Cabuyao","Laguna","Single","Quarterly ","Referral","Cold","Employee",NULL
+2022,5,"2022-05-31","Client 17","PRIME","Male","23","Davao City","Davao Del Sur","Single","Annual","Referral","Cold","Overseas Worker",NULL
+2022,6,"2022-06-28","Client 18","PRIME","Female","25","Makati City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,7,"2022-07-04","Client 19","FIT & WELL","Female","31","Marikina","Metro Manila","Single","Annual","Passive","Natural","Employee",NULL
+2022,7,"2022-07-04","Client 20","FIT & WELL","Male","26","Rodriguez (Montalban)","Rizal","Single","Annual","Passive","Natural","Entrepreneur",NULL
+2022,7,"2022-07-08","Client 21","FIT & WELL","Female","26","Marikina","Metro Manila","Single","Annual","Active","Warm","Overseas Worker",NULL
+2022,7,"2022-07-15","Client 22","PRIME","Male","24","Zamboanga City","Zamboanga Del Sur","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,7,"2022-07-19","Client 23","PRIME","Male","25","Balagtas (Bigaa)","Bulacan","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,7,"2022-07-20","Client 24","PRIME","Male","54","Zamboanga City","Zamboanga Del Sur","Married With Kids","Quarterly ","Referral","Cold","Professional ",NULL
+2022,7,"2022-07-21","Client 25","PRIME","Female","24","Polomolok","South Cotabato","Single","Quarterly ","Active","Warm","Professional ",NULL
+2022,7,"2022-07-27","Client 26","FIT & WELL","Male","28","Davao City","Davao Del Sur","Single","Annual","Passive","Cold","Professional ",NULL
+2022,8,"2022-08-08","Client 27","FIT & WELL","Female","26","San Jose Del Monte","Bulacan","Single","Annual","Active","Warm","Employee",NULL
+2022,8,"2022-08-19","Client 28","FIT & WELL","Male","28","Pinukpuk","Kalinga","Married With Kids","Quarterly ","Passive","Cold","Professional ",NULL
+2022,8,"2022-08-19","Client 29","PRIME","Male","28","Pinukpuk","Kalinga","Married With Kids","Quarterly ","Passive","Cold","Professional ",NULL
+2022,8,"2022-08-24","Client 30","FIT & WELL","Female","27","Daet","Camarines Norte","Single","Quarterly ","Referral","Cold","Overseas Worker",NULL
+2022,9,"2022-09-20","Client 31","PRIME","Female","29","Antipolo","Rizal","Married With Kids","Quarterly ","Referral","Warm","Employee",NULL
+2022,9,"2022-09-23","Client 32","PRIME","Female","30","Cabuyao","Laguna","Single","Quarterly ","Referral","Cold","Professional ",NULL
+2022,9,"2022-09-27","Client 33","PRIME","Male","24","Cuenca","Batangas","Single","Quarterly ","Passive","Warm","Employee",NULL
+2022,10,"2022-10-06","Client 34","BRIGHT","Female","40","General Trias","Cavite","Married With Kids","Quarterly ","Active","Warm","Overseas Worker",NULL
+2022,10,"2022-10-17","Client 35","PRIME","Male","20","Mamburao","Occ Mindoro","Single","Annual","Passive","Warm","Overseas Worker",NULL
+2022,10,"2022-10-18","Client 36","PRIME","Female","25","Santiago City","Isabela","Married With Kids","Quarterly ","Passive","Warm","Entrepreneur",NULL
+2022,11,"2022-11-17","Client 37","FIT & WELL","Female","29","Las Pinas","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2022,11,"2022-11-17","Client 38","PRIME","Male","24","Pasig City","Metro Manila","Single","Quarterly ","Active","Cold","Employee",NULL
+2022,11,"2022-11-18","Client 39","PRIME","Male","26","Caloocan City (South)","Metro Manila","Single","Quarterly ","Referral","Cold","Employee",NULL
+2022,12,"2022-12-07","Client 40","FIT & WELL","Male","34","Tanza","Cavite","Married With Kids","Annual","Upsell","Warm","Entrepreneur",NULL
+2022,12,"2022-12-13","Client 41","FIT & WELL","Female","30","Tanza","Cavite","Married With Kids","Annual","Upsell","Warm","Entrepreneur",NULL
+2023,1,"2023-01-06","Client 42","FIT & WELL","Female","25","Iloilo City","Iloilo","Single","Quarterly ","Active","Cold","Employee",NULL
+2023,1,"2023-01-16","Client 43","PRIME","Female","29","Taytay","Rizal","Single","Quarterly ","Active","Warm","Overseas Worker",NULL
+2023,1,"2023-01-25","Client 44","PRIME","Female","35","General Trias","Cavite","Married NO kids","Quarterly ","Passive","Warm","Employee",NULL
+2023,2,"2023-02-14","Client 45","FIT & WELL","Male","31","Los Banos","Laguna","Single","Annual","Upsell","Cold","Employee",NULL
+2023,2,"2023-02-17","Client 46","ELITE","Female","29","Marikina","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2023,2,"2023-02-17","Client 47","ELITE","Male","27","Marikina","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2023,2,"2023-02-27","Client 48","FIT & WELL","Male","31","Cainta","Rizal","Single","Annual","Passive","Cold","Professional ",NULL
+2023,2,"2023-02-27","Client 49","PRIME","Female","23","Maramag","Bukidnon","Single","Quarterly ","Active","Cold","Employee",NULL
+2023,3,"2023-03-13","Client 50","ELITE","Male","25","Marikina","Metro Manila","Single","Annual","Upsell","Warm","Employee",NULL
+2023,3,"2023-03-28","Client 51","PRIME","Female","28","Makati City","Metro Manila","Single","Quarterly ","Active","Cold","Employee",NULL
+2023,3,"2023-03-31","Client 52","FIT & WELL","Male","29","Quezon City","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2023,4,"2023-04-05","Client 53","ASSURE","Male","29","Caloocan City (South)","Metro Manila","Single","Annual","Passive","Warm","Entrepreneur",NULL
+2023,4,"2023-04-14","Client 54","PRIME","Male","28","Santa Cruz","Davao Del Sur","Single","Quarterly ","Active","Cold","Employee",NULL
+2023,4,"2023-04-18","Client 55","PRIME","Female","25","Palo","Leyte","Single","Quarterly ","Active","Warm","Employee",NULL
+2023,4,"2023-04-19","Client 56","PRIME","Male","34","Antipolo","Rizal","Married With Kids","Quarterly ","Active","Warm","Employee",NULL
+2023,4,"2023-04-24","Client 57","ELITE","Male","40","Manila","Metro Manila","Married With Kids","Annual","Active","Cold","Entrepreneur",NULL
+2023,4,"2023-04-28","Client 58","PRIME","Female","27","Rodriguez (Montalban)","Rizal","Married NO kids","Quarterly ","Passive","Warm","Employee",NULL
+2023,5,"2023-05-10","Client 59","FIT & WELL","Female","35","Bacoor","Cavite","Single","Annual","Upsell","Cold","Entrepreneur",NULL
+2023,5,"2023-05-11","Client 60","PRIME","Female","24","Quezon City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2023,5,"2023-05-16","Client 61","FIT & WELL","Female","31","San Mateo","Rizal","Married NO kids","Annual","Referral","Warm","Employee",NULL
+2023,6,"2023-06-21","Client 62","MAXI100","Male","26","Marikina","Metro Manila","Single","Annual","Passive","Natural","Entrepreneur",NULL
+2023,7,"2023-07-06","Client 63","PRIME","Female","36","Quezon City","Metro Manila","Married With Kids","Annual","Active","Cold","Professional ",NULL
+2023,7,"2023-07-25","Client 64","PRIME","Male","36","Baguio City","Benguet","Married With Kids","Quarterly ","Referral","Cold","Overseas Worker",NULL
+2023,8,"2023-08-03","Client 65","PRIME","Female","29","Aurora","Isabela","Married NO kids","Quarterly ","Referral","Cold","Employee",NULL
+2023,8,"2023-08-24","Client 66","SINGLE PAY","Female","21","Marikina","Metro Manila","Single","Annual","Passive","Natural","Overseas Worker",NULL
+2023,8,"2023-08-25","Client 67","PRIME","Female","24","Zamboanga City","Zamboanga Del Sur","Single","Quarterly ","Referral","Cold","Professional ",NULL
+2023,8,"2023-08-29","Client 68","PRIME","Male","31","Pasig City","Metro Manila","Married With Kids","Quarterly ","Passive","Cold","Employee",NULL
+2023,9,"2023-09-05","Client 69","PRIME","Female","30","Angono","Rizal","Single","Annual","Referral","Cold","Employee",NULL
+2023,9,"2023-09-13","Client 70","FIT & WELL","Male","28","Bulacan","Bulacan","Married With Kids","Quarterly ","Active","Warm","Overseas Worker",NULL
+2023,9,"2023-09-13","Client 71","PRIME","Female","28","Bulacan","Bulacan","Married With Kids","Quarterly ","Active","Warm","Overseas Worker",NULL
+2023,9,"2023-09-18","Client 72","FIT & WELL","Female","34","Dasmariñas","Cavite","Single","Quarterly ","Referral","Cold","Employee",NULL
+2023,9,"2023-09-28","Client 73","PRIME","Female","22","Bulacan","Bulacan","Single","Quarterly ","Active","Warm","Overseas Worker",NULL
+2023,10,"2023-10-09","Client 74","BRIGHT","Female","32","Bacolod","Negros Occ","Single","Quarterly ","Active","Cold","Employee",NULL
+2023,10,"2023-10-25","Client 75","FIT & WELL","Female","32","Taguig","Metro Manila","Married With Kids","Annual","Passive","Cold","Overseas Worker",NULL
+2023,10,"2023-10-27","Client 76","PRIME","Female","21","Manila","Metro Manila","Single","Quarterly ","Passive","Cold","Employee",NULL
+2023,10,"2023-10-27","Client 77","PRIME","Female","23","Manila","Metro Manila","Single","Quarterly ","Passive","Cold","Employee",NULL
+2023,11,"2023-11-06","Client 78","PRIME","Female","25","Davao City","Davao Del Sur","Single","Quarterly ","Referral","Cold","Entrepreneur",NULL
+2023,11,"2023-11-17","Client 79","PRIME","Female","27","San Clemente","Tarlac","Single","Quarterly ","Referral","Cold","Employee",NULL
+2023,11,"2023-11-24","Client 80","FIT & WELL","Male","26","Rodriguez (Montalban)","Rizal","Single","Annual","Active","Warm","Professional ",NULL
+2023,12,"2023-12-07","Client 81","FIT & WELL","Male","32","Quezon City","Metro Manila","Married NO kids","Quarterly ","Active","Warm","Employee",NULL
+2023,12,"2023-12-07","Client 82","FIT & WELL","Female","31","Kalookan","Metro Manila","Married NO kids","Quarterly ","Active","Warm","Employee",NULL
+2023,12,"2023-12-19","Client 83","FIT & WELL","Male","30","Manila","Metro Manila","Single","Semi - Annual","Active","Warm","Employee",NULL
+2023,12,"2023-12-27","Client 84","SINGLE PAY","Female","55","Taguig","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2024,1,"2024-01-04","Client 85","BRIGHT","Male","32","Purok","Isabela","Married With Kids","Quarterly ","Active","Cold","Overseas Worker",NULL
+2024,1,"2024-01-15","Client 86","PRIME","Female","27","Taguig","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2024,1,"2024-01-23","Client 87","ASSURE","Male","27","Marikina","Metro Manila","Single","Annual","Passive","Natural","Employee",NULL
+2024,2,"2024-02-06","Client 88","PRIME","Female","22","Quezon City","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2024,2,"2024-02-06","Client 89","PRIME","Female","25","General Santos","South Cotabato","Single","Quarterly ","Referral","Cold","Employee",NULL
+2024,2,"2024-02-15","Client 90","PRIME","Female","30","Marikina","Metro Manila","Single","Quarterly ","Referral","Cold","Employee",NULL
+2024,2,"2024-02-21","Client 91","FIT & WELL","Female","27","Pasig City","Metro Manila","Single","Annual","Passive","Warm","Overseas Worker",NULL
+2024,2,"2024-02-29","Client 92","PRIME","Female","27","Pasig City","Metro Manila","Married With Kids","Quarterly ","Passive","Warm","Employee",NULL
+2024,2,"2024-03-08","Client 93","FIT & WELL","Female","28","San Jose Del Monte","Bulacan","Single","Annual","Active","Cold","Overseas Worker",NULL
+2024,3,"2024-03-12","Client 94","BRIGHT","Female","29","Montalban","Rizal","Married With Kids","Quarterly ","Active","Cold","Entrepreneur",NULL
+2024,3,"2024-03-25","Client 95","PRIME","Male","36","Baguio City","Benguet","Married With Kids","Quarterly ","Upsell","Warm","Overseas Worker",NULL
+2024,4,"2024-04-02","Client 96","FIT & WELL","Female","31","Quezon City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2024,4,"2024-04-03","Client 97","FIT & WELL","Male","27","Quezon City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2024,4,"2024-04-04","Client 98","FIT & WELL","Female","34","Manila City","Metro Manila","Married With Kids","Annual","Passive","Warm","Employee",NULL
+2024,4,"2024-04-04","Client 99","ELITE","Female","34","Manila City","Metro Manila","Married With Kids","Annual","Passive","Warm","Employee",NULL
+2024,4,"2024-04-23","Client 100","FIT & WELL","Female","28","Urdaneta","Pangasinan","Single","Quarterly ","Passive","Warm","Overseas Worker",NULL
+2024,5,"2024-05-14","Client 101","PRIME","Female","32","Marikina City","Metro Manila","Single","Quarterly ","Active","Warm","Employee",NULL
+2024,6,"2024-06-06","Client 102","PRIME","Female","21","Cebu City","Cebu","Married With Kids","Quarterly ","Active","Cold","Employee",NULL
+2024,6,"2024-06-14","Client 103","PRIME","Female","21","Cebu City","Cebu","Married With Kids","Quarterly ","Active","Cold","Employee",NULL
+2024,6,"2024-06-25","Client 104","PRIME","Male","31","Quezon City","Metro Manila","Married NO kids","Quarterly ","Passive","Warm","Overseas Worker",NULL
+2024,7,"2024-07-09","Client 105","PRIME","Female","27","Antipolo","Rizal","Married With Kids","Quarterly ","Active","Cold","Employee",NULL
+2024,8,"2024-08-05","Client 106","FIT & WELL","Male","29","Cebu City","Cebu","Single","Annual","Active","Cold","Overseas Worker",NULL
+2024,8,"2024-08-29","Client 107","PRIME","Female","32","Quezon City","Metro Manila","Married With Kids","Annual","Active","Warm","Employee",NULL
+2024,9,"2024-09-03","Client 108","FIT & WELL","Male","40","Irosin","Sorsogon","Single","Annual","Active","Cold","Overseas Worker",NULL
+2024,9,"2024-09-19","Client 109","FIT & WELL","Female","27","Marikina City","Metro Manila","Single","Annual","Referral","Cold","Employee",NULL
+2024,9,"2024-09-30","Client 110","ASSURE","Male","27","Marikina City","Metro Manila","Single","Annual","Passive","Natural","Employee",NULL
+2024,10,"2024-10-22","Client 111","FIT & WELL","Female","34","Paranaque City","Metro Manila","Married With Kids","Annual","Referral","Cold","Overseas Worker",NULL
+2024,10,"2024-10-25","Client 112","PRIME","Male","34","Quezon City","Metro Manila","Single","Quarterly ","Passive","Warm","Employee",NULL
+2024,11,"2024-11-05","Client 113","PRIME","Female","26","Dolores","Abra","Married With Kids","Quarterly ","Active","Cold","Employee",NULL
