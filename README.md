@@ -1,112 +1,55 @@
-# Business Intelligence and Data Analytics
-Technical Skills: SQL, Python, Tableau, Excel
+## Developer Portfolio Landing Page Template
 
-## Education
-### Master of Economics, International Business
-*University of International Business and Economics* (对外经济贸易大学)<br>
-September 2019 - April 2021 | Beijing, China | GPA: 3.74
+### ⚠️ Project Discontinued ⚠️
 
-### Bachelor of Science, Business Economics
-*University of the Philippines, Diliman*<br>
-August 2014 - June 2018 | Manila, Philippines | GPA: 3.5
+**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
 
-## Work History
-### Business Intelligence Assistant Manager
-*Beiersdorf* | May 2023 - December 2024
-- Led an international project team that established data consolidation and reporting for national and regional stakeholders
-- Leveraged knowledge of Power Query, Python, and other tools to automate data processing and data analysis, reducing manual intervention by up to 50% and processing time by about 65%
-- Developed impactful dashboards and implemented streamlined reporting procedures adopted by regional headquarters.
+---
 
-### Transport Marketplace Associate
-*Grab* | January 2022 - May 2023
-- Launched high-visibility projects in partnership with major stakeholders in the company, government, and driver community
-- Created dashboards utilizing SQL and Python for daily KPI tracking, reducing reporting time by 75%
-- Developed a framework for negotiating bank partnerships, achieving $100,000 in quarterly savings
-- Conducted data-driven experiments (e.g. A/B testing) that led to statistically significant increases in KPIs of focus groups
+### Introduction
 
-### Senior Business Development Analyst
-*Shopee* | April 2021 - December 2021
-- Managed 30 high-value accounts in the Sports & Travel category, driving an 80% YoY growth rate
-- Designed automated dashboards for performance tracking and trend analysis
-- Distributed $10,000 in sponsored rebates bi-weekly, supporting sales initiatives
-- Achieved 151% growth in a key account within three months via targeted interventions
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-### Junior Marketing Analyst
-*Balsam International Unlimited* | July 2018 - August 2019
-- Utilized digital marketing analytics tools and techniques, particularly search engine marketing, to optimize campaigns and achieve 15% annual revenue growth.
-- Created forecasting models for marketing spend, improving budget efficiency.
-  
-## Professional Projects
-### 1. Data Consolidation Initiatives
-> Company: Beiersdorf<br>
-Role: Project Lead  
-Launch Date: Various  
-Location: Manila, Philippines<br>
+### Installation
 
-- Developed procedures, in collaboration with the regional data management team, for automating consolidation of daily reports
-- Created the scripts on Python, VBA, and Power Query to clean historical data and establish correct logic and led to a 75% decrease in historical report processing times
-- Used technical expertise create replicable reports, leading to 100% report accuracy since August 2023
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-*Featured Skills:*
-- Python (Report Creation, Cleaning, and Consolidation of Files)
-- Excel (Power Query, Report Creation)
-- Project Management
-- Stakeholder Management
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-### 2. Airport-To-Anywhere
-> Company: Grab<br>
-Role: Project Co-Lead  
-Launch Date: December 2022  
-Location: Manila, Philippines<br>
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- Provided additional livelihood to over 1,500 driver partners
-- Improved reliability metrics by 15% for airport-based rides through incentives and awareness initiatives
-- Featured in [news articles](https://www.rappler.com/business/miaa-grab-airport-to-anywhere-program-address-airport-problems/) and [government agency social media](https://www.facebook.com/reel/748547737079706) highlighting project impact
+### Markdown
 
-*Featured Skills:*
-- SQL (Data Analysis)
-- Python (Report Creation from Dataframes)
-- Project Management
-- Stakeholder Management (Multiple high-level stakeholders)
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-### 3. In-App Car Rental Products: Rent-by-Grab, GrabTours
-> Company: Grab<br>
-Role: Project Co-Lead (Rent-by-Grab) | Advisor (GrabTours)<br>
-Launch Date: May 2022 | June 2023<br>
-Location: Manila, Philippines<br>
+```markdown
+Syntax highlighted code block
 
-- Worked with the Technical Support team to design the initial rent prototype on the app and subsequent developments
-- Rent-by-Grab
-  - Collaborated with the car-rental company Hertz to provide dedicated rental drivers for the initiative
-  - Featured by [Top Gear](https://www.topgear.com.ph/news/motoring-news/rent-by-grab-ph-a4354-20220520)
-- GrabTours
-  - Partnered with the Department of Tourism, a government agency, to launch a limited-time product based on the rental prototype
-  - Monitored and trained fifty selected driver-partners to ensure an optimal tour experience for guests
-  - Featured by a news agency, the [Philippine Star](https://www.philstar.com/headlines/2023/06/15/2273963/dot-digitalize-tour-transactions-grab)
+# Header 1
+## Header 2
+### Header 3
 
-*Featured Skills:*
-- SQL (Data Analysis)
-- Python (Report Creation from Dataframes)
-- Project Management
-- Stakeholder Management (Multiple high-level stakeholders)
+- Bulleted
+- List
 
-## Personal Projects
+1. Numbered
+2. List
 
-### 1. Statistical Analysis of Educational Attainment on Household Size Using Python
-[Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/main/Project%201%20-%20Statistical%20Analysis%20and%20Visualization%20Using%20Python)
-- Using correlation and regression analysis, the analysis showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
+**Bold** and _Italic_ and `Code` text
 
-*Featured Skills (Using Python):*
-- Data Cleaning and Aggregation
-- Visualization
-- Statistical Analysis
-- Report Writing
+[Link](url) and ![Image](src)
+```
 
-### 2. Visualization and Analysis of Insurance Client Data Using Tableau and SQL
-[Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/3e9d3bd003f9e442613850fe72bc4aa2a275646a/Project%202%20-%20Exploratory%20Analysis%20of%20Client%20Data%20Using%20SQL%20and%20Tableau)
-- The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using SQL and visualized on Tableau.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-*Featured Skills (Using SQL and Tableau):*
-- Data Cleaning
-- Exploratory Analysis
-- Visualization
+### Roadmap
+
+This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
+___
+
+### References
+
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
