@@ -1,15 +1,11 @@
-title: "&nbsp;" # your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: "&nbsp;&nbsp;&nbsp;" # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <strong>Background</strong><br>
-  📊 <a href="#project_1">Regression Analysis with Python</a><br>
-  💼 <a href="#project_2">Data Processing with PostgreSQL, Visualization with Tableau</a><br><br>
+  📊 <a href="#project_1">Project 1</a><br>
+  💼 <a href="#project_2">Project 2</a><br><br>
 
-  <strong>My Projects</strong><br>
-  🧠 <a href="#professional-projects">Professional Projects</a><br>
-  🛠️ <a href="#personal-projects">Personal Projects </a>
-  
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
