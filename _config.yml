@@ -3,8 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <strong>Background</strong><br>
-  📊 <a href="#project-1">Project 1</a><br>
-  💼 <a href="#project_2">Project 2</a><br><br>
+  📊 <a href="#project-1">Statistical Analysis Using Python</a><br>
+  💼 <a href="#project-2">Data Cleaning Using SQL, Visualization With Tableau</a><br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 
