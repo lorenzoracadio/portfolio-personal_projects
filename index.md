@@ -57,7 +57,7 @@ Next, we want to use a basic linear regression to understand the gravity of the 
 The results of the regression can be interpreted as follows:<br>
 - Constant (const): When educational attainment is preschool or less, the average number of household members is 4.87
 - P-Value (P> abs. val of t): The findings are statistically significant
-    - P-Value determines whether or not the findings are significant usually based on if they are less than 0.10,0.05, or 0.01
+- P-Value determines whether or not the findings are significant usually based on if they are less than 0.10,0.05, or 0.01
 - Household Educational Bucket coefficient = -0.1137
     - __FOR EACH INCREASE IN EDUCATIONAL ATTAINMENT OF THE HOUSEHOLD HEAD, AVERAGE FAMILY SIZE DECREASES BY ABOUT 0.11 MEMBERS__<br><br>
  ![image](https://github.com/user-attachments/assets/948d30a2-412d-45a0-aeaa-a613b4046ca0)
