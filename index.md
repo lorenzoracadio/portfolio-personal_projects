@@ -53,7 +53,7 @@ Next, we want to use a basic linear regression to understand the gravity of the 
 3. Homoscedasticity<br>
 4. No autocorrelation<br>
 5. No multicollinearity
-![image](https://github.com/user-attachments/assets/10196ebe-88c8-47f0-af44-5fcc5452484e)<br>
+![image](https://github.com/user-attachments/assets/10196ebe-88c8-47f0-af44-5fcc5452484e)<br><br>
 The results of the regression can be interpreted as follows:<br>
 - Constant (const): When educational attainment is preschool or less, the average number of household members is 4.87
 - P-Value (P> abs. val of t): The findings are statistically significant
