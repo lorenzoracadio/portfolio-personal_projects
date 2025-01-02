@@ -1,5 +1,5 @@
-# Project 1
-## Statistical Analysis of Educational Attainment on Household Size Using Python
+## Project 1
+**Statistical Analysis of Educational Attainment on Household Size Using Python**<br>
 [Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/main/Project%201%20-%20Statistical%20Analysis%20and%20Visualization%20Using%20Python)
 - Using correlation and regression analysis, the analysis showed that __educational attainment__ of the household head has a small, signficant impact on the __number of family members__.
 
