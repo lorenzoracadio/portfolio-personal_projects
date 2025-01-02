@@ -2,9 +2,9 @@ title: "&nbsp;&nbsp;&nbsp;Lorenzo Racadio" # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
-  <strong>Background</strong><br>
-  📊 <a href="#project-1">Statistical Analysis Using Python</a><br>
-  💼 <a href="#project-2">Data Cleaning and Visualization</a><br><br>
+  <strong>Personal Projects</strong><br>
+  📊 <a href="#project-1">Statistical Analysis and Econometric Techniques</a><br>
+  💼 <a href="#project-2">Data Cleaning and Exploratory Analysis</a><br><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 
