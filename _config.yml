@@ -3,8 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   <strong>Personal Projects</strong><br>
-  📊 <a href="#project-1">Statistical Analysis and Econometric Techniques</a><br>
-  💼 <a href="#project-2">Data Cleaning and Exploratory Analysis</a><br><br>
+  📊 <a href="#project-1">Statistical Analysis, Econometric Techniques</a><br>
+  💼 <a href="#project-2">Data Cleaning, Exploratory Analysis</a><br><br>
+  🔗 <a href="https://lorenzoracadio.github.io/" target="_blank">Back to Home</a><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 
