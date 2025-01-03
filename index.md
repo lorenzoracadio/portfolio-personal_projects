@@ -9,7 +9,7 @@ Summary: Using correlation and regression analysis, the analysis showed that __e
 - Statistical Analysis (Regression, Correlation)
 - Report Writing
 
-Background: Fertility rates are declining around the world (Bongaarts and Hodgson, 2022) and while there are multiple factors, this brief study analyzes the relationship of educational attainment of the household head (hereinafter referred to as educational attainment) on family size using data from the Family Income and Expenditure Survey (FIES) conducted by the Philippine Statistics Authority (PSA) in 2017. For convenience, a standard OLS regression, and some preceding tests, was used.<br>
+Research Background: Fertility rates are declining around the world (Bongaarts and Hodgson, 2022) and while there are multiple factors, this brief study analyzes the relationship of educational attainment of the household head (hereinafter referred to as educational attainment) on family size using data from the Family Income and Expenditure Survey (FIES) conducted by the Philippine Statistics Authority (PSA) in 2017. For convenience, a standard OLS regression and correlation test were used.<br>
 
 The research determines that<br>
 1. There is a statistically significant but very weak negative correlation between educational attainment and family size.
@@ -70,13 +70,43 @@ While correlation between educational attainment and family size was significant
 Future studies can build on the results by adding more independent variables or by checking the validity of the claims over a period of time.
 
 # Project 2
-## Preparing and Visualizing Insurance Client Data Using SQL and Tableau 
-[Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/3e9d3bd003f9e442613850fe72bc4aa2a275646a/Project%202%20-%20Exploratory%20Analysis%20of%20Client%20Data%20Using%20SQL%20and%20Tableau)
-- The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using PostgreSQL and visualized on Tableau.
+# Preparing and Visualizing Insurance Client Data Using SQL and Tableau 
+[Project and Dataset](https://github.com/lorenzoracadio/project-portfolio/tree/3e9d3bd003f9e442613850fe72bc4aa2a275646a/Project%202%20-%20Exploratory%20Analysis%20of%20Client%20Data%20Using%20SQL%20and%20Tableau)<br>
+Summary: The data based on the actual client data from an insurance agent shows __client distribution by demographic__. Data was cleaned using PostgreSQL via pgAdmin4 and visualized on Tableau. *(Data Source: Anonymized client information provided by a friend in the insurance industry)*
 
 *Featured Skills (Using SQL and Tableau):*
 - Data Cleaning
 - Exploratory Analysis
 - Visualization
 
-*Data Source: Anonymized client information provided by a friend in the insurance industry*
+# Part 1: Data Processing With SQL
+## Step 1: Create Table and Import Data From File
+![image](https://github.com/user-attachments/assets/55178974-2817-4a08-a3dd-07c7e53bc6cc)
+
+## Step 2: Clean Dataset
+### Remove Nulls
+![image](https://github.com/user-attachments/assets/045eb6e6-ab0e-404f-9e53-6c85b8d6eb67)<br><br>
+Three rows have nulls entries. These need to be dropped from the data.<br>
+![image](https://github.com/user-attachments/assets/f9807e04-f097-4b22-ae67-3b9d7f4e1618)
+
+### Check Dataypes
+Notice that policy date is registered as a **text datatype.**<br><br>
+Use the CAST function to register the rows as dates.<br>
+![image](https://github.com/user-attachments/assets/aff83e6e-422c-47de-94d7-388168af05f1)
+
+### Delete Duplicates Using Window Functions and CTE
+Three clients have **duplicate entries:**<br>
+![image](https://github.com/user-attachments/assets/57404cc3-f52b-408a-893c-96f1b07ccd59)<br><br>
+
+We determine which rows are **duplicates** based on the following CTE:<br>
+![image](https://github.com/user-attachments/assets/790eef10-89cd-42e0-9689-c42ba63baac1)<br><br>
+
+Update the table with a column that will count duplicate entries:<br>
+![image](https://github.com/user-attachments/assets/6d5ce233-dc99-48a8-912c-bdc05d999904)<br><br>
+
+Delete rows and update the table:<br>
+![image](https://github.com/user-attachments/assets/ba41c4d6-e4b9-443f-aee6-94d8cc8da086)<br><br>
+
+### Final Output: Processed Dataset
+![image](https://github.com/user-attachments/assets/b9242f3e-c746-4eef-b6b3-f4f8e2c0c794)
+
