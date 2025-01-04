@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <strong>Personal Projects</strong><br>
   📊 <a href="#project-1">Python Project</a><br>
   💼 <a href="#project-2">SQL and Tableau Project</a><br><br>
-  🔗 <a href="https://lorenzoracadio.github.io/" target="_blank">Back to Home</a><br>
+  🔗 <a href="https://lorenzoracadio.github.io/" target="">Back to Home</a><br>
 
 remote_theme: pages-themes/minimal@v0.2.0
 
