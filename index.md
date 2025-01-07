@@ -110,3 +110,7 @@ Delete rows and update the table:<br>
 ### Final Output: Processed Dataset
 ![image](https://github.com/user-attachments/assets/b9242f3e-c746-4eef-b6b3-f4f8e2c0c794)
 
+### Tableau Visualization
+Report [here](https://tabsoft.co/4gHWfdO).<br>
+![image](https://github.com/user-attachments/assets/313cca8b-8725-4e70-bd4a-7bcdcf0ecae5)
+
